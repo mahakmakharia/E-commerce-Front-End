@@ -1,2 +1,2 @@
-# e-commerce
-E-Commerce using Ionic and PHP
+# E-Commerce
+E-Commerce landing page design using Ionic framework.
